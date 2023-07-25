@@ -1,0 +1,106 @@
+
+.pos{
+    position: relative;
+}
+
+.wrd1{
+    float: right;
+    margin-top: 100px;
+    margin-right: 240px;
+}
+
+
+.pic1{
+    padding-top: 150px;
+    margin-left: 140px;
+    position: fixed;
+    
+}
+
+.contain{
+    
+}
+
+.contain{
+    background-color: rgba(255, 182, 193, 0.598);
+    border-radius: 5px;
+    
+}
+
+
+
+
+
+.container{
+    margin-top: 20px;
+    border-color: 1px blue;
+    width: 500px;
+    padding: 1%;
+    color: rgb(11, 11, 11);
+    font-family: cursive;
+    text-align: center;
+}
+
+
+.row{
+    padding: 2%;
+    color:black;
+    font-size: larger;
+    font-family: cursive;
+    color: rgb(6, 7, 7);
+}
+
+/* 
+input{
+    border-radius: 10px;
+    border-color: #E69A8DFF;
+    width: 250px;
+    height: 30px;
+    font-family: cursive;
+    color:black;
+}
+button{
+    border-radius: 10px;
+    width: 75px;
+    height: 30px;
+    font-family: cursive;
+    color: aliceblue;
+    color:black;
+
+}
+button:hover:not(.active){
+    border-radius: 10px;
+    width: 75px;
+    height: 30px;
+    background-color: rgb(220, 169, 29);
+    font-family: cursive;
+    color: aliceblue;
+} */
+
+
+.check{
+    width:20px;
+    height:30px;
+}
+
+.container1{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 10vh;
+   font-size: 60px;
+}
+
+.Radio{
+    display: none;
+}
+
+.Rating{
+    cursor: pointer;
+}
+
+.pic{
+    padding-top: 60px;
+    margin-left: 220px;
+    
+}

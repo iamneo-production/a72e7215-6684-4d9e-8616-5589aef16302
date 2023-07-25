@@ -1,0 +1,13 @@
+  
+  footer {
+    position: fixed;
+    background-color: lightgrey;
+    bottom: 0;
+    left: 0;
+    /* font-size: 15px; */
+    right: 0;
+    font-weight: 700;
+    color:black;
+    padding: 8px;
+    text-align: center;
+  }
