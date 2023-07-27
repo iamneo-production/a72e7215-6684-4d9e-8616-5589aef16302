@@ -74,7 +74,7 @@ const SignupPage = () => {
       e.preventDefault();
       try {
         const response = await axios.post(
-          "http://localhost:8081/api/v1/auth/register/admin",
+          "http://localhost:8081/api/v1/auth/register",
           {
             name,
             email,

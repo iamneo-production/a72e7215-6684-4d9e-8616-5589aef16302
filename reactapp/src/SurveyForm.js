@@ -334,10 +334,10 @@ class SurveyForm extends Component{
                     <button className='btn btn-primary'>Submit</button>
                 </div> */}
             </form>
-            </div>
+            </div><center>
             <div className='row'>
-                    <Link to="/Share"><button className='btn btn-primary'>Generate Link</button></Link>
-                </div>
+                    <Link to="/Share"><button className='btn btn-primary'><b>Generate Link</b></button></Link>
+                </div></center>
             </div></div>
             <Footer/>
             </body>

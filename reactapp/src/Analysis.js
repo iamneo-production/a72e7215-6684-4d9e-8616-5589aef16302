@@ -9,6 +9,8 @@ import PieChart from "./PieChart";
 import { UserData } from "./Data";
 import {Link} from "react-router-dom"
 import Footer from './Footer';
+import Csv from './Csv'
+import Get from './Get';
 // import { useDispatch, useSelector } from "react-redux";
 // import { logout, selectUser } from "./UserSlice";
 
@@ -138,6 +140,11 @@ function App() {
         </nav>
         
         <br/><br/><center>
+
+        <Get/>
+        <br/><br/>
+        <Csv/>
+        <br/><br/><br/><br/><br/><br/>
         <div style={{ width: 700 }}>
           <BarChart chartData={userData} />
         </div><br/><br/>

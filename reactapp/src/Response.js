@@ -82,7 +82,7 @@ class SurveyForm extends Component{
     };
 
     handleSubmit = (event) => {
-        event.preventDefault();
+        // event.preventDefault();
         const data = {
             name: this.state.name,
             email: this.state.email,
@@ -101,6 +101,7 @@ class SurveyForm extends Component{
         };
         console.log(data);
         axios.post('http://localhost:8082/api/v1/user/post', data)
+        window.alert("Submitted your Response !!!")
     }
     
     render(){
@@ -292,7 +293,7 @@ class SurveyForm extends Component{
                 </div>
 
                 <div className='row'>
-                <label>13. How happy are you with the quality & taste of the food? </label><br></br>
+                <label>13. Overall Rating for our Restaurant? </label><br></br>
                 <div className="container1">
             {[...Array(5)].map((item, index) => {
                 const givenRating = index + 1;
