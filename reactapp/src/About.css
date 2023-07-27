@@ -1,0 +1,130 @@
+.desktop-2
+{
+position:fixed;
+background-color:#ffffff;
+height:1024px;
+width:1440px;
+padding:0px;
+margin-top: 0px;
+}
+.rectangle3
+{
+    margin-top: 120px;
+background-color: aliceblue;
+height:540px;
+width:1200px;
+margin-left: 110px;
+border-radius:10px;
+left:40px;
+top:40px;
+position:fixed;
+}
+.jyothiraam
+{
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Recursive;
+margin-top: -80px;
+margin-left: -60px;
+left:1041px;
+top:569px;
+width:301px;
+height:288px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.indhuprakash
+{
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Recursive;
+left:620px;
+top:569px;
+width:421px;
+margin-top: -80px;
+margin-left: -30px;
+height:288px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.aboutus
+{
+color:#17cf97;
+text-align:center;
+vertical-align:text-top;
+font-size:55px;
+font-weight: 600;
+margin-left: -30px;
+font-family:Ruslan Display;
+left:590px;
+top:120px;
+width:360px;
+height:76px;
+position:absolute;
+line-height:auto;
+margin-top: -20px;
+border-style:hidden;
+outline:none;
+}
+.content
+{
+text-align:center;
+vertical-align:text-top;
+font-size:28px;
+margin-left: -30px;
+font-size: 23px;
+font-family:Arial, Helvetica, sans-serif;
+left:276px;
+top:213px;
+width:1008px;
+height:333px;
+margin-top: -20px;
+
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.creaters
+{
+color:#17cf97;
+text-align:center;
+vertical-align:text-top;
+font-size:28px;
+font-weight: 600;
+margin-top: -40px;
+margin-left: -40px;
+
+font-family:sans-serif;
+left:677px;
+top:463px;
+width:185px;
+height:39px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.imayesh
+{
+text-align:left;
+vertical-align:text-top;
+font-size:24px;
+font-family:Recursive;
+margin-top: -78px;
+margin-left: 70px ;
+left:169px;
+top:569px;
+width:431px;
+height:288px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}

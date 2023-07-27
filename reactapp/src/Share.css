@@ -1,0 +1,45 @@
+.pic3{
+    padding-top: 90px;
+    margin-left: 800px;
+    
+}
+
+.web{
+    margin-top: -480px;
+    margin-left: 170px;
+}
+
+.quote{
+    margin-left: -860px;
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    font-style: italic;
+}
+
+.h11{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 2px lightgray ;
+    margin-left: 25px;
+}
+
+.h12{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.h13{
+    cursor: pointer;
+    margin-top: 10px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: bold;
+    width: 150px;
+    border: 1.9px solid black;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.h13:hover{
+    background-color: #0056b3;
+}
